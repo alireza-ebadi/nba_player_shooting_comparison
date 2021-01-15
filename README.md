@@ -1,10 +1,13 @@
 # nba_player_shooting_comparison
 
-## This project is developed to collect data from [NBA database](stats.nba.com) and compare shooting performance of multiple NBA players. It classifies the shots into: 1. 3-point shots beyond the arc
+## This project is developed to collect data from [NBA database](stats.nba.com) and compare shooting performance of multiple NBA players. 
+
+It classifies the shots into: 
+1. 3-point shots beyond the arc
 2. 3-point corner shots 
 3. 2-points shots in the paint
 4. 2-points shots outside the paint
-and plots the shot charts on an NBA court colored by the respected official team colors. 
+and plots the shot charts on an NBA court colored by the respected official team colors. A sample plots is provided below (there are more in the [notebook](nba_player_shooting_comparison.ipynb))
 
 
 ![Sample](Curry_v_Harden.png?raw=true)
