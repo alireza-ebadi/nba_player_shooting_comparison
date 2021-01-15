@@ -9,7 +9,7 @@ It classifies the shots into:
 4. 2-points shots outside the paint
 and plots the shot charts on an NBA court colored by the respected official team colors. A sample plots is provided below (there are more in the [notebook](nba_player_shooting_comparison.ipynb))
 
-
+![Sample](Curry_v_Harden.png?raw=true)
 
 
 **Available Files:**
