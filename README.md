@@ -14,7 +14,7 @@ and plots the shot charts on an NBA court colored by the respected official team
 
 
 **Available Files:**
-1. [](nba_player_shooting_comparison.ipynb): 
+1. [nba_player_shooting_comparison.ipynb](nba_player_shooting_comparison.ipynb): 
   -The notebook is segregated into 3 chapters:
     1. import modules and libraries and set parameters
     2. define functions to draw a 2D NBA courts
@@ -26,7 +26,7 @@ and plots the shot charts on an NBA court colored by the respected official team
     8. compare the 2 point shos outside the paint 
       
   
-8. [](environment.yml) and [](requirements.txt):
+8. [environment.yml](environment.yml) and [requirements.txt](requirements.txt):
   -The environment files necessary to recreate the python environment (python 3.6)
     
 **DISCLAIMER**
