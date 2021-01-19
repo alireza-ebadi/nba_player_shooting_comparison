@@ -349,6 +349,7 @@ dependencies:
     - python-json-logger==2.0.1
     - ruamel-yaml==0.16.12
     - ruamel-yaml-clib==0.2.2
+    - scikit-fuzzy==0.4.2
     - semver==2.13.0
     - shapely==1.7.1
     - websocket-client==0.57.0
