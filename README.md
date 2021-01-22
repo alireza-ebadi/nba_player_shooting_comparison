@@ -22,12 +22,12 @@ and plots the shot charts on an NBA court colored by the respected official team
     5. compare the 3 point shots beyond the arc
     6. compare the corner 3 point shots
     7. compare the 2 point shots inside the paint
-    8. compare the 2 point shos outside the paint 
+    8. compare the 2 point shots outside the paint 
       
   
 8. [environment.yml](environment.yml) and [requirements.txt](requirements.txt):
   -The environment files necessary to recreate the python environment (python 3.6)
     
 **DISCLAIMER**
-1. The shots are limited to those attempted in the half court
+1. The visualization of the shots are limited to those attempted in the half court
     
